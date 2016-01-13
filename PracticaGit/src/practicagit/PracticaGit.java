@@ -18,6 +18,8 @@ public class PracticaGit {
         int num = 0;
         num++;
         System.out.println(num);
+        num = num + (num * 40);
+        System.out.println(num);
     }
 
 }
